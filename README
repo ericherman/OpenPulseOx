@@ -1,0 +1,17 @@
+OpenHardwarePulseOx
+
+Low cost, easy to use Pulse Oximeter.
+
+This project is in early development and is not yet ready for use.
+
+Software License
+-------
+GNU General Public License (GPL), version 3 or later.
+See COPYING for details, or:
+https://www.gnu.org/licenses/gpl-3.0.txt
+
+Hardware Design License
+-------
+Licensed under CERN OHL v.1.2 or later
+See kicad-files/LICENSE.txt, or:
+http://www.ohwr.org/attachments/2388/cern_ohl_v_1_2.txt
